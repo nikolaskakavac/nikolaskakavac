@@ -1,6 +1,6 @@
 # Nikola Skakavac
 
-🧑‍💻 Coding since 2018 | Full-Stack MERN + **No-Code** Developer | **Graphic Designer (10+ years)** | Beograd, Serbia 🇷🇸
+🎓 **FON Student** (Informational systems and technologies | Year 4) | 🧑‍💻 Coding since 2018 | **Full-Stack + No-Code + Graphic Design (10+ yrs)** | Beograd, Serbia 🇷🇸
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikolaskakavac)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://skaledigitals.com)
@@ -11,9 +11,19 @@
 
 ## 👋 About Me
 
-**Full-Stack + No-Code + Graphic Design** profesionalac sa **10+ godina iskustva u grafici** (Photoshop, Illustrator) i **codingom od 2018**.  
-**Web development:** MERN stack, Webflow, Framer za brze client projekte (frizeri, restorani, kafići).  
-**SaaS & AI:** Chatbots, dashboards, payments (Stripe, PayPal, crypto). **Currently: AI SaaS**. [web:9]
+**FON student** (Informacioni sistemi i tehnologije, **4. godina – pred kraj**) sa praktičnim iskustvom od 2018.  
+**Full-stack + No-code + Graphic design (10+ godina Photoshop/Illustrator)** – savršen miks za complete web projekte.  
+**Client work:** 50+ sajtova (frizeri, restorani), AI chatbots, SaaS sa Stripe/PayPal/crypto. **Currently: AI SaaS dev**. [web:9]
+
+---
+
+## 📚 Education
+
+**🎓 Fakultet organizacionih nauka (FON), Univerzitet u Beogradu**  
+**Informacioni sistemi i tehnologije**  
+*2022 – Present (4. godina, pred kraj)*  
+✔ Položeni predmeti: **C**, **Java**, OS, Networks, Databases  
+✔ Praktične vežbe + fakultetski projekti  
 
 ---
 
@@ -21,10 +31,9 @@
 
 **Freelance Full-Stack / No-Code / Graphic Designer**  
 *2018 – Present* (Beograd, Serbia)  
-✔ **50+ client websites** (MERN + Webflow/Framer)  
+✔ **50+ client websites** (MERN, Webflow, Framer)  
 ✔ **Graphic design** za brending (Photoshop, Illustrator – 10+ godina)  
-✔ **AI chatbots** & **SaaS tools** sa payments  
-✔ Job boards, restaurant platforms, business dashboards  
+✔ **AI chatbots** & **SaaS tools** sa payments (Stripe, PayPal, crypto)  
 
 ---
 
@@ -34,7 +43,7 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com) [![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)](https://webflow.com) [![Framer](https://img.shields.io/badge/Framer-F4B400?style=for-the-badge&logo=framer&logoColor=black)](https://framer.com)
 
 **Backend**  
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://cprogramming.com)
 
 **Design**  
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white)](https://adobe.com/photoshop) [![Illustrator](https://img.shields.io/badge/Illustrator-FF0000?style=for-the-badge&logo=illustrator&logoColor=white)](https://adobe.com/illustrator)
@@ -70,6 +79,6 @@ Portfolio: Websites, design, SaaS services.
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-222222?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com) [![Upwork](https://img.shields.io/badge/Upwork-0E29CD?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 
-📍 **Beograd, Serbia** | 💼 **Full-Stack, No-Code, Graphic Design** | DM for collabs!  
+📍 **Beograd, Serbia** | 🎓 **FON, 4. godina IST** | 💼 **Full-stack, No-code, Design**  
 
 > "Design is thinking made visual." – Saul Bass [web:9]
