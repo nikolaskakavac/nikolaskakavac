@@ -1,6 +1,6 @@
 # Nikola Skakavac
 
-🎓 **FON Student** (Informational systems and technologies | Year 4) | 🧑‍💻 Coding since 2018 | **Full-Stack + No-Code + Graphic Design (10+ yrs)** | Beograd, Serbia 🇷🇸
+🎓 **FON Student** (Information Systems & Technologies, 4th year) | 🧑‍💻 Coding since 2018 | **Full-Stack + No-Code + Graphic Design (10+ yrs)** | Belgrade, Serbia 🇷🇸
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikolaskakavac)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://skaledigitals.com)
@@ -11,29 +11,29 @@
 
 ## 👋 About Me
 
-**FON student** (Informacioni sistemi i tehnologije, **4. godina – pred kraj**) sa praktičnim iskustvom od 2018.  
-**Full-stack + No-code + Graphic design (10+ godina Photoshop/Illustrator)** – savršen miks za complete web projekte.  
-**Client work:** 50+ sajtova (frizeri, restorani), AI chatbots, SaaS sa Stripe/PayPal/crypto. **Currently: AI SaaS dev**. [web:9]
+**University of Belgrade FON student** (Information Systems & Technologies, **4th year – final stage**) with real-world experience since 2018.  
+**Full-stack developer + No-code specialist + Graphic designer (10+ years Photoshop/Illustrator)** – complete web solutions from design to deployment.  
+**Client projects:** 50+ business websites (salons, restaurants, cafes), AI chatbots, SaaS apps with Stripe/PayPal/crypto payments. **Currently building AI SaaS**. [web:9]
 
 ---
 
 ## 📚 Education
 
-**🎓 Fakultet organizacionih nauka (FON), Univerzitet u Beogradu**  
-**Informacioni sistemi i tehnologije**  
-*2022 – Present (4. godina, pred kraj)*  
-✔ Položeni predmeti: **C**, **Java**, OS, Networks, Databases  
-✔ Praktične vežbe + fakultetski projekti  
+**🎓 Faculty of Organizational Sciences (FON), University of Belgrade**  
+**BSc Information Systems & Technologies**  
+*2022 – Present (4th year, nearing completion)*  
+✔ Completed courses: **C**, **Java**, Operating Systems, Networks, Databases  
+✔ Practical labs + university projects  
 
 ---
 
 ## 💼 Experience
 
 **Freelance Full-Stack / No-Code / Graphic Designer**  
-*2018 – Present* (Beograd, Serbia)  
-✔ **50+ client websites** (MERN, Webflow, Framer)  
-✔ **Graphic design** za brending (Photoshop, Illustrator – 10+ godina)  
-✔ **AI chatbots** & **SaaS tools** sa payments (Stripe, PayPal, crypto)  
+*2018 – Present* (Belgrade, Serbia)  
+✔ **50+ client websites** (MERN stack, Webflow, Framer)  
+✔ **Branding & graphics** (Photoshop, Illustrator – 10+ years experience)  
+✔ **AI chatbots** & **SaaS dashboards** with payment integrations (Stripe, PayPal, crypto)  
 
 ---
 
@@ -79,6 +79,6 @@ Portfolio: Websites, design, SaaS services.
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-222222?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com) [![Upwork](https://img.shields.io/badge/Upwork-0E29CD?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 
-📍 **Beograd, Serbia** | 🎓 **FON, 4. godina IST** | 💼 **Full-stack, No-code, Design**  
+📍 **Belgrade, Serbia** | 🎓 **FON, 4th year IST** | 💼 **Full-stack, No-code, Design** | Open for collaborations!  
 
 > "Design is thinking made visual." – Saul Bass [web:9]
